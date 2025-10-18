@@ -1,0 +1,8 @@
+Component,Quantity,Estimated Price (USD),Notes/Supplier Link
+Arduino Nano (CH340),1,5,Compatible with Arduino IDE
+MQ-135 Air Quality Sensor,1,5,Detects air pollutants; can test with simulated values
+0.96" OLED Display (SSD1306),1,2,I2C interface, 128x64 pixels
+Breadboard,1,3,For prototyping connections
+Jumper Wires,10,2,Male-to-male wires for connections
+USB Cable,1,2,For programming Arduino and power
+Optional 3D-Printed Case,1,5,Can be printed later for enclosure
