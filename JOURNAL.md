@@ -17,3 +17,9 @@ I wrote the initial Arduino sketch for Aerolyte, my mini air-quality monitor. I 
 ![Screen Shot 2025-10-17 at 8.16.25 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg1MywicHVyIjoiYmxvYl9pZCJ9fQ==--ab58fe4f367ff25b19b14f323074b29c195f74df/Screen%20Shot%202025-10-17%20at%208.16.25%20PM.png)
   
 
+## 10/18/2025 - Created BOM  
+
+Today I wrote the BOM for my Aerolyte mini air quality monitor. I listed all the components I’ll need, including the Nano 3.0 board, OLED display, breadboard, jumper wires, and USB cable. I felt very confused at first because I’ve never done a hardware project like this before, but breaking it down piece by piece helped me understand what’s needed. Now I have a clear parts list ready for ordering.
+![Screen Shot 2025-10-18 at 8.33.12 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE2MywicHVyIjoiYmxvYl9pZCJ9fQ==--c464f2cf080c84d561d3ad53b83844d48fe2ca61/Screen%20Shot%202025-10-18%20at%208.33.12%20PM.png)
+  
+
