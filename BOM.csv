@@ -1,5 +1,7 @@
-Item Name,Description,Price,URL,Number of Reviews,Rating,Featured Tag,Merchants
-Nano 3.0 Controller Board Compatible with Arduino Nano CH340 USB Driver with Cable,Microcontroller board with CH340 USB driver and Mini-USB port for Arduino projects,4.99,https://www.microcenter.com/product/693143/Nano_30_Controller_Board_Compatible_with_Arduino_Nano_CH340_USB_Driver_with_Cable?storeID=195,–,–,microcontroller board,Micro Center
-0.96" I2C IIC SPI Serial 128x64 OLED LCD LED Display Module White Blue Yellow,0.96-inch OLED display for Arduino (I2C/SPI interface),2.18,https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=3256808329797582&_immersiveMode=true&withMainCard=true&isdl=y,–,–,OLED display module,AliExpress
-Yuanmiaoke 140pcs Breadboard Jumper Cable Wire Kit With Box Compatible for Board (Random Line Color),140-piece jumper wire kit for breadboard prototyping,4.99,https://lovemyswitches.com/jumper-wire-kit-for-breadboarding-140-pieces/?setCurrencyId=1&sku=wirekitbreadboard,49,4.8,breadboard & jumper kit,Love My Switches
-Inland USB 2.0 (Type-A) Male to Mini-USB (Type-B) Male Cable,Blue Mini-USB cable for Arduino Nano connectivity,2.99,https://www.microcenter.com/product/618905/USB_20_(Type-A)_Male_to_Mini-USB_(Type-B)_Male_Cable_-_Blue?storeID=195,–,–,USB cable,Micro Center
+Component,Quantity,Estimated Price (USD),Notes/Supplier Link,
+Arduino Nano (CH340),1,5,Compatible with Arduino IDE,
+MQ-135 Air Quality Sensor,1,6,Detects air pollutants; can test with simulated values,
+"0.96"" OLED Display (SSD1306)",1,3,I2C interface,128x64 pixels
+Breadboard,1,3,For prototyping connections,
+Jumper Wires,10,2,Male-to-male wires for connections,
+USB Cable,1,3,For programming Arduino and power,
