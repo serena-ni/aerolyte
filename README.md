@@ -1,43 +1,23 @@
-# Aerolyte
+# aerolyte
 
-**Mini Air-Quality Monitor using Arduino**
+## Overview
+aerolyte is a small, beginner-friendly air-quality sensor project built using an Arduino Nano, an MQ-135 gas sensor module, and a 0.96" OLED display. The device reads basic air-quality values and displays them in real time.
 
-Aerolyte is a compact, beginner-friendly device that measures local air quality using an MQ-135 gas sensor and displays results on a 0.96" OLED screen. It shows real-time readings and classifies air quality as **Good**, **Moderate**, or **Poor**.
+## Why I Made This Project
+I created aerolyte to learn hands-on hardware skills for the first time. I’ve worked on software projects before, but I wanted to challenge myself by building something physical, wiring components, writing firmware, and understanding how microcontrollers work.
 
-## Features
-- Real-time air quality readings
-- Visual display on an OLED screen
-- Easy-to-build using Arduino and basic components
-- Portable and expandable for future projects
+## 3D Model
+*(insert picture)*
 
-## Components
-- Arduino Nano / ESP32
-- MQ-135 Gas Sensor
-- 0.96" OLED Display (SSD1306)
-- Breadboard + Jumper Wires
-- USB Cable / Miscellaneous parts
+## Wiring Diagram
+*(insert picture)*
 
-## Wiring
-**MQ-135 Sensor**
-- VCC → 5V
-- GND → GND
-- Analog Out → A0
-
-**OLED Display (I2C)**
-- VCC → 3.3V / 5V (check OLED specs)
-- GND → GND
-- SDA → A4 (Uno/Nano)
-- SCL → A5 (Uno/Nano)
-
-## Installation
-1. Install the Arduino IDE from [arduino.cc](https://www.arduino.cc/en/software)  
-2. Install the following libraries via Arduino IDE → Sketch → Include Library → Manage Libraries:
-   - Adafruit SSD1306
-   - Adafruit GFX
-3. Open `aerolyte.ino` in Arduino IDE
-4. Connect your Arduino board
-5. Upload the sketch
-
-## Usage
-- The OLED will display air quality: Good, Moderate, or Poor  
-- Serial Monitor can show raw sensor values for calibration
+## Bill of Materials (BOM)
+| Item | Description | Price | Link |
+|------|-------------|--------|------|
+| Arduino Nano 3.0 (CH340) | Main microcontroller | ~$5–8 | (insert link) |
+| MQ-135 Gas Sensor Module | Air-quality sensor | ~$4–6 | (insert link) |
+| 0.96" OLED Display (I2C) | 128×64 white/blue | already purchased | — |
+| Breadboard | For wiring | ~$3–6 | (insert link) |
+| Jumper Wires | Male–Male | ~$2–5 | (insert link) |
+| Mini-USB Cable | For programming Nano | ~$3–5 | (insert link) |
